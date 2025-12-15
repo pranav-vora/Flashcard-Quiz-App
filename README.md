@@ -1,7 +1,5 @@
 # Flashcard-Quiz-App
 # Things to get done:
-# Frontend sends req. to backend
-# npm run start
 # Create the user dashboard
 # create placeholders for the different links
 # make it dark-themed
