@@ -1,6 +1,6 @@
 # Flashcard-Quiz-App
 # Things to get done:
-# Create the user dashboard
+# Create the login screen and user dashboard
 # create placeholders for the different links
 # make it dark-themed
 # generate flashcard animation
