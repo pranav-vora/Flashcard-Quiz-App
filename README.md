@@ -1,6 +1,7 @@
 # Flashcard-Quiz-App
 # Things to get done:
-# Create the login screen and user dashboard
+# Add functionality to login screen and connect it to backend
+# Create the user dashboard
 # create placeholders for the different links
 # make it dark-themed
 # generate flashcard animation
